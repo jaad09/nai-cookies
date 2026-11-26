@@ -16,3 +16,6 @@
 - Flutter وDart لبناء واجهة العميل ولوحة التحكم.
 - Firebase Authentication لإدارة حسابات العملاء.
 - Cloud Firestore لحفظ الطلبات.
+
+ <img width="353" height="733" alt="‏‏لقطة الشاشة (270)" src="https://github.com/user-attachments/assets/5ae1e91f-5cc5-4931-8a10-4c7bc5b6ca81" /> <img width="357" height="706" alt="‏‏لقطة الشاشة (271)" src="https://github.com/user-attachments/assets/be0bed5c-2bef-42c8-9e6e-f0fc952313f2" />
+
